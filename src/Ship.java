@@ -4,6 +4,7 @@ import java.awt.*;
  * Created by JUAN RAMON on 11/01/2015.
  * part of asteroids game
  */
+
 public class Ship extends BaseVectorShape {
     //define ship polygon
     private int[] shipx = {-6, -3, 0, 3, 6, 0};
