@@ -12,5 +12,5 @@ public class Bullet extends BaseVectorShape {
         return r;
     }
 
-     
+
 }
