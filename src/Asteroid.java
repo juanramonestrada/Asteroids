@@ -1,4 +1,3 @@
-import javax.sound.midi.Receiver;
 import java.awt.*;
 
 /**
