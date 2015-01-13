@@ -2,7 +2,7 @@ import java.awt.*;
 
 /**
  * Created by JUAN RAMON on 13/01/2015.
- * the asteroid class for the game itself
+ * the asteroid class for all asteroids
  */
 public class Asteroid extends BaseVectorShape{
     // define the asteroids polygon shape
