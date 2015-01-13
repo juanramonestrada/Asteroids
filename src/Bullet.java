@@ -12,5 +12,10 @@ public class Bullet extends BaseVectorShape {
         return r;
     }
 
+    Bullet(){
+        // createe the bullet shape
+        setShape(new Rectangle(0, 0, 1, 1));
+        setAlive(false);
+    }
 
 }
