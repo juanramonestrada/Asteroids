@@ -20,6 +20,8 @@ public class BaseGameEntity extends Object {
 
     //mutators methods
     public void setAlive(boolean alive){this.alive = alive;}
+    public void setX(double x){this.x = x;}
+    public void setY(double y){this.y = y;}
     
 
 
